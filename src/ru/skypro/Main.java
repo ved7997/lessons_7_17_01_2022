@@ -20,7 +20,7 @@ public class Main {
         //Задание №3
 
         String fullName2;
-        fullName2 = fullName.replace(" ", ";");
+        fullName2 = fullName.replace(" ", "; ");
         System.out.println("Данные ФИО сотрудника для административного отдела — " + fullName2);
 
         //Задание №
